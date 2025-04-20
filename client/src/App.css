@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+}
+section{
+  margin-top: 20px;
+  min-width: 500px;
+  height: 500px;
+  border: 2px solid darkblue;
+}
+
+li{
+  list-style: none;
+}
